@@ -9,7 +9,6 @@
 ## 🧠 About Me
 
 I am a motivated Computer Engineering student with a strong interest in software development, algorithms, and data structures.
-Currently working and learning Web3.  
 
 - 🔎 Interests: Software Development, Web Development 
 
@@ -24,7 +23,7 @@ Java | TypeScript
 Spring | Next.js
 
 ### 🗄️ Databases
-MySQL | PostgreSQL | MongoDB  
+MySQL | PostgreSQL   
 
 ---
 
