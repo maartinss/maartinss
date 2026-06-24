@@ -1,16 +1,36 @@
-## Hi there 👋
+# Rodrigo Martins
 
-<!--
-**maartinss/maartinss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student  
+💻 Passionate about Software Development  
+🌍 Portugal  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+I am a motivated Computer Engineering student with a strong interest in software development, algorithms, and data structures.
+Currently working and learning Web3.  
+
+- 🔎 Interests: Software Development, Web Development 
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+Java | TypeScript
+
+### 🍃 Frameworks
+Spring | Next.js
+
+### 🗄️ Databases
+MySQL | PostgreSQL | MongoDB  
+
+---
+
+## 📫 Connect With Me
+
+📧 [Email](rodrigomdmartins06@gmail.com)  
+💼 [LinkedIn](https://linkedin.com/in/rodrigo-martins-6a14b5353/)
+
+
