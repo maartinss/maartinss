@@ -4,7 +4,6 @@
 💻 Passionate about Software Development  
 🌍 Portugal  
 
----
 
 ## 🧠 About Me
 
@@ -12,7 +11,6 @@ I am a motivated Computer Engineering student with a strong interest in software
 
 - 🔎 Interests: Software Development, Web Development 
 
----
 
 ## 🛠️ Tech Stack
 
@@ -25,7 +23,6 @@ Spring | Next.js
 ### 🗄️ Databases
 MySQL | PostgreSQL   
 
----
 
 ## 📫 Connect With Me
 
